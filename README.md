@@ -3,7 +3,7 @@
 # Olá, eu sou Athos! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=435&lines=[Se adapte];[Não tenha medo de mudar];[Lute]" alt="Typing SVG" />
+  <img src="https://imgs.search.brave.com/JnmqLHNfYUu9Sp3bAchPv4vitZef1MzqJ6vJ9s-ctKE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9h/bmltZS1naXJsLW9r/YXktc2lnbi1iNXps/eWU1aDhtbmpoZGcy/LmdpZg.gif" width="400" />
 </p>
 
 ---
